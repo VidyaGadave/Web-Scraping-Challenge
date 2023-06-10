@@ -11,13 +11,13 @@ Deliverable 1: Scrape titles and preview text from Mars news articles. Optionall
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
-Instructions :
+## Instructions :
 
-    Download the repository onto you computer.
-    Open the part_1_mars_news.ipynb file in a Jupyter Notebook.
-    Select the "Kernel" tab and click "Restart Kernel and Clear all Outputs".
-    Then proceed to hit shift + enter to cycle through the script cell by cell.
-    Then open the part_2_mars_weather.ipynb file.
-    Select the "Kernel" tab and click "Restart Kernel and Clear all Outputs".
-    Then proceed to hit shift + enter to cycle through the script cell by cell.
+  1. Download the repository onto you computer.
+  2. Open the part_1_mars_news.ipynb file in a Jupyter Notebook.
+  3. Select the "Kernel" tab and click "Restart Kernel and Clear all Outputs".
+  4. Then proceed to hit shift + enter to cycle through the script cell by cell.
+  5. Then open the part_2_mars_weather.ipynb file.
+  6. Select the "Kernel" tab and click "Restart Kernel and Clear all Outputs".
+  7. Then proceed to hit shift + enter to cycle through the script cell by cell.
     
